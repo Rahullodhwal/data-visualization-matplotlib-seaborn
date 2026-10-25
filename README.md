@@ -1,6 +1,5 @@
 # Data Visualization with Matplotlib & Seaborn
 
-**InternCircle | Project 02 | Data Science & AI**
 
 A set of clear, honest charts built from seaborn's built-in **tips** dataset (244 restaurant meals), covering a histogram, box plot, bar chart, scatter plot and an annotated correlation heatmap, combined into a 2 x 2 dashboard image.
 
